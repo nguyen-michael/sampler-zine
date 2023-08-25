@@ -20,6 +20,5 @@
 
 	img {
 		max-width: 30%;
-		height: 30%;
 	}
 </style>
